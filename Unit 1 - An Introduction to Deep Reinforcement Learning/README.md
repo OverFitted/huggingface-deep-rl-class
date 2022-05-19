@@ -54,10 +54,6 @@ while True:
     env.render()
 ```
 
-## Preview
+## Preview (clickable)
 
-<figure class="video_container">
-    <video controls="true" allowfullscreen="true" poster="media/replay.png">
-        <source src="media/replay.mp4" type="video/mp4">
-    </video>
-</figure>
+[![Watch the video](media/replay.png)](media/replay.mp4)
