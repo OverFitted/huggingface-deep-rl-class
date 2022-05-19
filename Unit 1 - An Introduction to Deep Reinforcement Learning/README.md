@@ -56,4 +56,4 @@ while True:
 
 ## Preview (clickable)
 
-[![Watch the video](media/replay.png)](media/replay.mp4)
+[![Watch the video](media/replay.png)](https://youtu.be/cpHtFShjolQ)
